@@ -1,1 +1,1 @@
-export const backendUrl = "http://localhost:8000";
+export const backendUrl = "https://spotaana-backend.onrender.com";
