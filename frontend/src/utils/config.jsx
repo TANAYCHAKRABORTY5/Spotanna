@@ -1,1 +1,1 @@
-export const backendUrl = "https://spotaana-backend.onrender.com";
+export const backendUrl = "https://spotanna-backend.onrender.com";
