@@ -18,7 +18,9 @@ app.use(
     credentials: true,
   })
 );
+
 app.use(express.json());
+app.options("*", cors());
 
 mongoose
   .connect(process.env.DB_URL)
