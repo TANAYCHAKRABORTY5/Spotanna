@@ -12,7 +12,12 @@ const cors = require("cors");
 const app = express();
 const port = 8000;
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://spotaana-frontend.onrender.com", // your frontend URL
+    credentials: true,
+  })
+);
 app.use(express.json());
 
 mongoose
