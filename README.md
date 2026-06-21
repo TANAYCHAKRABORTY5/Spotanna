@@ -28,11 +28,7 @@ Built with **React.js**, **Node.js**, **MongoDB**, and styled using **Tailwind C
   - **Backend:** Node.js with Express
   - **Database:** MongoDB with Mongoose
 
----
 
-## 📸 Screenshots
-
-> _You can add your own screenshots here_
 
 ---
 
